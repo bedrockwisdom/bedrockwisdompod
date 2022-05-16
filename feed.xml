@@ -20,14 +20,14 @@ Have you ever wondered what Quakers, Jains, and Sikhs have in common? Why is it 
 <itunes:email>bedrockwisdom@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="https:// https://github.com/bedrockwisdom/bedrockwisdompod/BedrockWisdom.png"/>
-<itunes:category text="CATEGORY1"></itunes:category>
-<itunes:category text="CATEGORY2"></itunes:category>
-<itunes:category text="CATEGORY3"></itunes:category>
+<itunes:category text="SPIRITUALITY"></itunes:category>
+<itunes:category text="SECULAR"></itunes:category>
+<itunes:category text="RELIGION"></itunes:category>
 
 <item>
-<title>EPISODE TITLE</title>
-<itunes:title>EPISODE TITLE</itunes:title>
-<itunes:author>PODCAST CREATOR</itunes:author>
+<title>EPISODE 000 - Introduction</title>
+<itunes:title>EPISODE 000 - Introduction</itunes:title>
+<itunes:author>Tyler Robbins</itunes:author>
 <itunes:subtitle>
 EPISODE SUBTITLE
 </itunes:subtitle>
