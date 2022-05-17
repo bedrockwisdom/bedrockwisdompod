@@ -25,8 +25,98 @@ Have you ever wondered what Quakers, Jains, and Sikhs have in common? Why is it 
 <itunes:category text="RELIGION"></itunes:category>
 
 <item>
-<title>EPISODE 000 - Introduction</title>
-<itunes:title>EPISODE 000 - Introduction</itunes:title>
+<title>Episode 000 - Introduction</title>
+<itunes:title>Episode 000 - Introduction</itunes:title>
+<itunes:author>Tyler Robbins</itunes:author>
+<itunes:subtitle>
+EPISODE SUBTITLE
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>DURATION</itunes:duration>
+<itunes:season>SEASON #</itunes:season>
+<itunes:episode>EPISODE #</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://LOCATION OF MP3.MP3
+</guid>
+<pubDate>EPISODE PUBLISH DATE</pubDate>
+<itunes:explicit>YES/NO</itunes:explicit>
+</item>
+  
+<item>
+<title>EPISODE 001- The Role of Myth</title>
+<itunes:title>Episode 001 - The Role of Myth</itunes:title>
+<itunes:author>Tyler Robbins</itunes:author>
+<itunes:subtitle>
+EPISODE SUBTITLE
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>DURATION</itunes:duration>
+<itunes:season>SEASON #</itunes:season>
+<itunes:episode>EPISODE #</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://LOCATION OF MP3.MP3
+</guid>
+<pubDate>EPISODE PUBLISH DATE</pubDate>
+<itunes:explicit>YES/NO</itunes:explicit>
+</item>
+  
+<item>
+<title>Episode 002 - Compassion</title>
+<itunes:title>Episode 002 - Compassion</itunes:title>
+<itunes:author>Tyler Robbins</itunes:author>
+<itunes:subtitle>
+EPISODE SUBTITLE
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>DURATION</itunes:duration>
+<itunes:season>SEASON #</itunes:season>
+<itunes:episode>EPISODE #</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://LOCATION OF MP3.MP3
+</guid>
+<pubDate>EPISODE PUBLISH DATE</pubDate>
+<itunes:explicit>YES/NO</itunes:explicit>
+</item>
+  
+<item>
+<title>EPISODE 003 - Ritual</title>
+<itunes:title>EPISODE 003 - Ritual</itunes:title>
 <itunes:author>Tyler Robbins</itunes:author>
 <itunes:subtitle>
 EPISODE SUBTITLE
