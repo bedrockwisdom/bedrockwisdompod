@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom"  ?xml version="1.0" encoding="UTF-8"?><rss version="2.0"    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 <channel>
 <title>Bedrock Wisdom</title>
 <link> https://github.com/bedrockwisdom/bedrockwisdompod</link>
@@ -72,7 +72,7 @@ EPISODE DESCRIPTION
 ]]>
 </description>
 <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
-<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
+<enclosure url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/001%20The%20Role%20of%20Myth%20(Final).mp3" length="LENGTH" type="audio/mpeg"/>
 <itunes:duration>DURATION</itunes:duration>
 <itunes:season>SEASON #</itunes:season>
 <itunes:episode>EPISODE #</itunes:episode>
@@ -81,7 +81,7 @@ EPISODE DESCRIPTION
 https://LOCATION OF MP3.MP3
 </guid>
 <pubDate>EPISODE PUBLISH DATE</pubDate>
-<itunes:explicit>YES/NO</itunes:explicit>
+<itunes:explicit>NO</itunes:explicit>
 </item>
   
 <item>
@@ -102,7 +102,7 @@ EPISODE DESCRIPTION
 ]]>
 </description>
 <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
-<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
+<enclosure url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/002%20Compassion%20(Final).mp3" length="LENGTH" type="audio/mpeg"/>
 <itunes:duration>DURATION</itunes:duration>
 <itunes:season>SEASON #</itunes:season>
 <itunes:episode>EPISODE #</itunes:episode>
@@ -111,7 +111,7 @@ EPISODE DESCRIPTION
 https://LOCATION OF MP3.MP3
 </guid>
 <pubDate>EPISODE PUBLISH DATE</pubDate>
-<itunes:explicit>YES/NO</itunes:explicit>
+<itunes:explicit>NO</itunes:explicit>
 </item>
   
 <item>
@@ -132,7 +132,7 @@ EPISODE DESCRIPTION
 ]]>
 </description>
 <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
-<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
+<enclosure url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/003%20Ritual.mp3" length="LENGTH" type="audio/mpeg"/>
 <itunes:duration>DURATION</itunes:duration>
 <itunes:season>SEASON #</itunes:season>
 <itunes:episode>EPISODE #</itunes:episode>
@@ -141,7 +141,7 @@ EPISODE DESCRIPTION
 https://LOCATION OF MP3.MP3
 </guid>
 <pubDate>EPISODE PUBLISH DATE</pubDate>
-<itunes:explicit>YES/NO</itunes:explicit>
+<itunes:explicit>NO</itunes:explicit>
 </item>
 
 ... REPEAT <item> for each episode ...
