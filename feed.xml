@@ -3,7 +3,7 @@
 
 <channel>
 <title>Bedrock Wisdom Podcast</title>
-<link> https://bedrockwisdompod/feed.xml</link>
+<link> https://bedrockwisdompod.github.io/</link>
 <language>en-us</language>
 <atom:link href="https://github.com/bedrockwisdom/bedrockwisdompod.com/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright>Tyler Robbins</copyright>
