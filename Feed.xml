@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bedrock Wisdom Podcast</title>
+    <link>https://bedrockwisdompod.github.io/</link>
+    <language>en-us</language>
+    <copyright>&#169; 2022 Tyler Robbins</copyright>
+    <itunes:author>Tyler Robbins</itunes:author>
+    <description>
+      Have you ever wondered what Quakers, Jains, and Sikhs have in common? Why is it that ascetic practices have been revered in nearly all parts of the world? Did you know that many &apos;new&apos; discoveries in psychology are now validating ideas that the Buddha taught 2,500 years ago? In this series we explore the underlying concepts and ideas that appear to be at the core of many religious, and at times secular, traditions.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Tyler Robbins</itunes:name>
+      <itunes:email>bedrockwisdom@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/BedrockWisdom.png"
+    />
+    <itunes:category text="Spirituality">
+      <itunes:category text="Religious">
+      <itunes:category text="Secular"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <title>001 The Role of Myth</title>
+      <description>
+        What is myth and how does it play a role in human experience?
+      </description>
+      <enclosure
+        length="15545007" 
+        type="audio/mpeg" 
+        url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/001%20The%20Role%20of%20Myth%20(Final).mp3"
+      />
+      <guid>bwp001</guid>
+      <pubDate>Fri, 18 May 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <title>002 - Compassion</title>
+      <description>
+        We discuss the stories of Avalokiteshvara and Jesus' loss of a friend.
+      </description>
+      <enclosure 
+        length="22104465" 
+        type="audio/mpeg" 
+        url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/002%20Compassion%20(Final).mp3"
+      />
+      <guid>bwp002</guid>
+      <pubDate>Fri, 18 May 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:28:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <title>003 - Ritual</title>
+      <description>
+        What is ritual and how does it play a role in our everyday life?
+      </description>
+      <enclosure 
+        length="21283245"
+        type="audio/mpeg"
+        url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/003%20Ritual.mp3"
+      />
+      <guid>bwp003</guid>
+      <pubDate>Fri, 18 May 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
