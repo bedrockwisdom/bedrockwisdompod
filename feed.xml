@@ -15,7 +15,7 @@
       <itunes:email>email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image
-      href="https://github.com/bedrockwisdom/bedrockwisdompod/BedrockWisdom.png"
+      href="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/BedrockWisdom.png"
     />
     <itunes:category text="Spirituality">
       <itunes:category text="Religious">
@@ -64,9 +64,6 @@
       <description>
         What is ritual and how does it play a role in our everyday life?
       </description>
-      <itunes:image
-        href="https://github.com/bedrockwisdom/bedrockwisdompod/BedrockWisdom.png"
-      />
       <enclosure 
         length="21283245"
         type="audio/x-m4v" 
