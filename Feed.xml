@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bedrock Wisdom Podcast</title>
+    <link>https://github.com/bedrockwisdom/bedrockwisdompod/</link>
     <language>en-us</language>
     <copyright>&#169; 2022 Tyler Robbins</copyright>
     <itunes:author>Tyler Robbins</itunes:author>
