@@ -15,7 +15,7 @@
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image
-      href="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/BedrockWisdom.png"
+      href="https://github.com/bedrockwisdom/bedrockwisdompod/BedrockWisdom.png"
     />
     <itunes:category text="Spirituality">
       <itunes:category text="Religious">
@@ -32,7 +32,7 @@
       <enclosure
         length="15545007" 
         type="audio/mpeg"
-        url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/001%20The%20Role%20of%20Myth%20(Final).mp3"
+        url="https://github.com/bedrockwisdom/bedrockwisdompod/Episodes/001%20The%20Role%20of%20Myth%20(Final).mp3"
       />
       <guid>bwp001</guid>
       <pubDate>Fri, 18 May 2022 01:15:00 MST</pubDate>
@@ -49,7 +49,7 @@
       <enclosure 
         length="22104465" 
         type="audio/mpeg"
-        url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/002%20Compassion%20(Final).mp3"
+        url="https://github.com/bedrockwisdom/bedrockwisdompod/Episodes/002%20Compassion%20(Final).mp3"
       />
       <guid>bwp002</guid>
       <pubDate>Fri, 18 May 2022 01:15:00 MST</pubDate>
@@ -66,7 +66,7 @@
       <enclosure 
         length="21283245"
         type="audio/mpeg" 
-        url="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/Episodes/003%20Ritual.mp3"
+        url="https://github.com/bedrockwisdom/bedrockwisdompod/Episodes/003%20Ritual.mp3"
       />
       <guid>bwp003</guid>
       <pubDate>Fri, 18 May 2022 01:15:00 MST</pubDate>
