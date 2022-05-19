@@ -4,6 +4,7 @@
     <title>Bedrock Wisdom Podcast</title>
     <link>https://github.com/bedrockwisdom/podcast/</link>
     <language>en-us</language>
+    <atom:link href="https://bedrockwisdom.github.io/podcast/Feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>&#169; 2022 Tyler Robbins</copyright>
     <itunes:author>Tyler Robbins</itunes:author>
     <description>
