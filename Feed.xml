@@ -14,8 +14,8 @@
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image url="https://bedrockwisdom.github.io/podcast/BedrockWisdomArtwork.png"/>
-    <itunes:category text="Religion &amp; Spirituality"<itunes:category/>
-      <itunes:category text="Society &amp; Culture"<itunes:category/>
+    <itunes:category> text="Religion &amp; Spirituality"<itunes:category/>
+      <itunes:category> text="Society &amp; Culture"<itunes:category/>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
