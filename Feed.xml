@@ -9,14 +9,12 @@
     <description>
       Have you ever wondered what Quakers, Jains, and Sikhs have in common? Why is it that ascetic practices have been revered in nearly all parts of the world? Did you know that many &apos;new&apos; discoveries in psychology are now validating ideas that the Buddha taught 2,500 years ago? In this series we explore the underlying concepts and ideas that appear to be at the core of many religious, and at times secular, traditions.
     </description>
-    <itunes:type>serial</itunes:type>
+    <itunes:type serial/>
     <itunes:owner>
       <itunes:name>Tyler Robbins</itunes:name>
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image>
-      href="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/BedrockWisdom.png"
-    /itunes:image>
+    <itunes:image href="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/BedrockWisdom.png"/>
     <itunes:category text="Spirituality"/>
       <itunes:category text="Religious"/>
       <itunes:category text="Secular"/>
