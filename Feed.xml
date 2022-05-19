@@ -17,10 +17,9 @@
     <itunes:image>
       href="https://github.com/bedrockwisdom/bedrockwisdompod/blob/main/BedrockWisdom.png"
     /itunes:image>
-    <itunes:category text="Spirituality">
-      <itunes:category text="Religious">
+    <itunes:category text="Spirituality"/>
+      <itunes:category text="Religious"/>
       <itunes:category text="Secular"/>
-    </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
