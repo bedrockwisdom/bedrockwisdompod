@@ -14,9 +14,8 @@
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://www.github.com/bedrockwisdom/podcast/blob/main/BedrockWisdomArtwork.png"/>
-    <itunes:category text="Spirituality"/>
-      <itunes:category text="Religious"/>
-      <itunes:category text="Secular"/>
+    <itunes:category text="Religion & Spirituality"/>
+      <itunes:category text="Society & Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -31,9 +30,9 @@
         url="https://github.com/bedrockwisdom/podcast/blob/main/Episodes/001%20The%20Role%20of%20Myth%20(Final).mp3"
       />
       <guid>bwp001</guid>
-      <pubDate>Fri, 18 May 2022 04:00:00 MST</pubDate>
+      <pubDate>Wed, 18 May 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:29:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -48,9 +47,9 @@
         url="https://github.com/bedrockwisdom/podcast/blob/main/Episodes/002%20Compassion%20(Final).mp3"
       />
       <guid>bwp002</guid>
-      <pubDate>Fri, 18 May 2022 04:00:00 MST</pubDate>
+      <pubDate>Wed, 18 May 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:28:28</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -65,9 +64,9 @@
         url="https://github.com/bedrockwisdom/podcast/blob/main/Episodes/003%20Ritual.mp3"
       />
       <guid>bwp003</guid>
-      <pubDate>Fri, 18 May 2022 04:00:00 MST</pubDate>
+      <pubDate>Wed, 18 May 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:28:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
