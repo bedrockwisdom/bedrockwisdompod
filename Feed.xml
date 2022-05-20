@@ -27,7 +27,9 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <title>001 The Role of Myth</title>
+	  <itunes:title>001 The Role of Myth</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>What is myth and how does it play a role in human experience?</itunes:summary>
       <description>
         What is myth and how does it play a role in human experience?
       </description>
@@ -45,7 +47,9 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
       <title>002 Compassion</title>
+	  <itunes:title>002 Compassion</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>We discuss the stories of Avalokiteshvara as well as how Jesus responded to the loss of a friend.</itunes:summary>
       <description>
         We discuss the stories of Avalokiteshvara as well as how Jesus responded to the loss of a friend.
       </description>
@@ -63,7 +67,9 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <title>003 Ritual</title>
+	  <itunes:title>003 Ritual</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>What is ritual and how does it play a role in our everyday life?</itunes:summary>
       <description>
         What is ritual and how does it play a role in our everyday life?
       </description>
@@ -81,7 +87,9 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <title>004 Interdependence</title>
+	  <itunes:title>004 Interdependence</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>We discuss the idea of how everything is connected through the Daoist lense of Yin and Yang and the Buddhist concept of interdependence.</itunes:summary>
       <description>
         We discuss the idea of how everything is connected through the Daoist lense of Yin and Yang and the Buddhist concept of interdependence.
       </description>
