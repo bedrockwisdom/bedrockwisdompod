@@ -44,7 +44,7 @@
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
-      <title>002 - Compassion</title>
+      <title>002 Compassion</title>
       <itunes:author>Tyler Robbins</itunes:author>
       <description>
         We discuss the stories of Avalokiteshvara as well as how Jesus responded to the loss of a friend.
@@ -62,7 +62,7 @@
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
-      <title>003 - Ritual</title>
+      <title>003 Ritual</title>
       <itunes:author>Tyler Robbins</itunes:author>
       <description>
         What is ritual and how does it play a role in our everyday life?
@@ -77,5 +77,24 @@
       <itunes:duration>00:28:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <title>004 Interdependence</title>
+      <itunes:author>Tyler Robbins</itunes:author>
+      <description>
+        We discuss the idea of how everything is connected through the Daoist lense of Yin and Yang and the Buddhist concept of interdependence.
+      </description>
+      <enclosure 
+        length="232450821"
+        type="audio/mpeg"
+        url="https://bedrockwisdom.github.io/podcast/Episodes/Episodes/004%20Interdependence%20(Final).mp3"
+      />
+      <guid>bwp004</guid>
+      <pubDate>Fri, 20 May 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:24:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
+
