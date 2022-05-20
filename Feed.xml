@@ -4,7 +4,7 @@
     <title>Bedrock Wisdom Podcast</title>
     <link>https://github.com/bedrockwisdom/podcast/</link>
     <language>en-us</language>
-    <atom:link href="https://bedrockwisdom.github.io/podcast/Feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://bedrockwisdom.github.io/podcast/Feed" rel="self" type="application/rss+xml"/>
     <copyright>&#169; 2022 Tyler Robbins</copyright>
     <itunes:subtitle>Seeking to understand the many ideas that unite us</itunes:subtitle>
     <itunes:author>Tyler Robbins</itunes:author>
@@ -38,7 +38,7 @@
         type="audio/mpeg" 
         url="https://bedrockwisdom.github.io/podcast/Episodes/001%20The%20Role%20of%20Myth%20(Final).mp3"
       />
-      <guid>bwp001</guid>
+      <guid isPermaLink="false">bwp001</guid>
       <pubDate>Wed, 18 May 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:29:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -58,7 +58,7 @@
         type="audio/mpeg" 
         url="https://bedrockwisdom.github.io/podcast/Episodes/002%20Compassion%20(Final).mp3"
       />
-      <guid>bwp002</guid>
+      <guid isPermaLink="false">bwp002</guid>
       <pubDate>Wed, 18 May 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:28:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -78,7 +78,7 @@
         type="audio/mpeg"
         url="https://bedrockwisdom.github.io/podcast/Episodes/003%20Ritual.mp3"
       />
-      <guid>bwp003</guid>
+      <guid isPermaLink="false">bwp003</guid>
       <pubDate>Wed, 18 May 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:28:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -98,7 +98,7 @@
         type="audio/mpeg"
         url="https://bedrockwisdom.github.io/podcast/Episodes/Episodes/004%20Interdependence%20(Final).mp3"
       />
-      <guid>bwp004</guid>
+      <guid isPermaLink="false">bwp004</guid>
       <pubDate>Fri, 20 May 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:24:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
