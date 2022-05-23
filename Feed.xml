@@ -23,7 +23,7 @@
       <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>no</itunes:explicit>
     
-	<item>
+    <item>
       <itunes:episodeType>trailer</itunes:episodeType>
       <title>Introduction</title>
 	  <itunes:title>Introduction</itunes:title>
@@ -37,7 +37,11 @@
         type="audio/mpeg" 
         url="https://bedrockwisdom.github.io/podcast/Episodes/000%20Intro_Trailer.mp3"
       />
-	
+      <guid isPermaLink="false">bwp001</guid>
+      <pubDate>Wed, 18 May 2022 02:00:00 MST</pubDate>
+      <itunes:duration>24611434</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
@@ -55,7 +59,7 @@
       />
       <guid isPermaLink="false">bwp001</guid>
       <pubDate>Wed, 18 May 2022 02:00:00 MST</pubDate>
-      <itunes:duration>24611434</itunes:duration>
+      <itunes:duration>00:27:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -98,7 +102,7 @@
       <itunes:duration>00:28:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
-	<item>
+    <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <title>004 Interdependence</title>
