@@ -25,7 +25,6 @@
     
 	<item>
       <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:episode>0</itunes:episode>
       <title>Introduction</title>
 	  <itunes:title>Introduction</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
