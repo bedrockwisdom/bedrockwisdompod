@@ -18,7 +18,7 @@
       <itunes:name>Tyler Robbins</itunes:name>
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://bedrockwisdom.github.io/podcast/BedrockWisdomArtwork.png"/>
+    <itunes:image href="https://bedrockwisdom.github.io/podcast/BedrockWisdomArtwork.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
       <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>no</itunes:explicit>
@@ -37,7 +37,7 @@
         type="audio/mpeg" 
         url="https://bedrockwisdom.github.io/podcast/Episodes/000%20Intro_Trailer.mp3"
       />
-      <guid isPermaLink="false">bwp001</guid>
+      <guid isPermaLink="false">bwp00</guid>
       <pubDate>Wed, 18 May 2022 02:00:00 MST</pubDate>
       <itunes:duration>00:01:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
