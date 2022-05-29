@@ -122,6 +122,26 @@
       <itunes:duration>00:24:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	  <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <title>Meditation &amp Prayer</title>
+	  <itunes:title>Meditation &amp Prayer</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>We discuss the function of prayer and meditation and how they can act as a tool for keeping our mind grounded.</itunes:summary>
+      <description>
+        We discuss the function of prayer and meditation and how they can act as a tool for keeping our mind grounded.
+      </description>
+      <enclosure 
+        length="34997745"
+        type="audio/mpeg"
+        url="https://bedrockwisdom.github.io/podcast/Episodes/005%20Meditation%20%26%20Prayer.mp3"
+      />
+      <guid isPermaLink="false">bwp005</guid>
+      <pubDate>Fri, 03 June 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:23:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
 
