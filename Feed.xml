@@ -142,6 +142,26 @@
       <itunes:duration>00:23:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	 <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <title>Family and Relationships</title>
+	  <itunes:title>Family and Relationships</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>What is the value in having relationships with family and others? How are these emphasized in different traditions?</itunes:summary>
+      <description>
+        What is the value in having relationships with family and others? How are these emphasized in different traditions?
+      </description>
+      <enclosure 
+        length="32006245"
+        type="audio/mpeg"
+        url="https://bedrockwisdom.github.io/podcast/Episodes/006%20Family%20%26%20Relationships(Final).mp3"
+      />
+      <guid isPermaLink="false">bwp005</guid>
+      <pubDate>Sun, 12 June 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:39:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
 
