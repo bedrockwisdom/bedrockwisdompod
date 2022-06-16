@@ -3,7 +3,8 @@
 <link type="application/rss+xml" rel="alternate" title="Berock Wisdom Podcast" href="https://https://www.podpage.com/bedrockwisdompodcast/"/>  
 <channel>
     <title>Bedrock Wisdom Podcast</title>
-    <link>https://github.com/bedrockwisdom/podcast/</link>
+    <link rel="alternate" type="application/rss+xml" title="Bedrock Wisdom Podcast"
+          href="https://www.podpage.com/bedrockwisdompodcast/"/>
     <language>en-us</language>
     <atom:link href="https://bedrockwisdom.github.io/podcast/Feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>&#169; 2022 Tyler Robbins</copyright>
