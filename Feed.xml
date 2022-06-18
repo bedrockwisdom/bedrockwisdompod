@@ -4,7 +4,7 @@
     <title>Bedrock Wisdom Podcast</title>
     <link>https://www.podpage.com/bedrockwisdompodcast/</link>	
     <language>en-us</language>
-    <atom:link href="https://bedrockwisdom.github.io/podcast/Feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>&#169; 2022 Tyler Robbins</copyright>
     <itunes:subtitle>Seeking to understand the many ideas that unite us</itunes:subtitle>
     <itunes:author>Tyler Robbins</itunes:author>
