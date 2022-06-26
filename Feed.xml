@@ -42,6 +42,7 @@
       <itunes:duration>00:01:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
@@ -62,6 +63,7 @@
       <itunes:duration>00:27:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
@@ -82,6 +84,7 @@
       <itunes:duration>00:28:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
@@ -102,6 +105,7 @@
       <itunes:duration>00:29:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
@@ -122,6 +126,7 @@
       <itunes:duration>00:24:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
 	  <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
@@ -160,6 +165,27 @@
       <guid isPermaLink="false">bwp006</guid>
       <pubDate>Sun, 12 June 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:39:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	
+		 <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <title>Episode 7 - Humility</title>
+	  <itunes:title>Episode 7 - Humility</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Is humility a weakness or a strength? We look at this topic through the lenses of Zen, Greek philosophy, Humanism, Christianity, and Daoism.</itunes:summary>
+      <description>
+        Is humility a weakness or a strength? We look at this topic through the lenses of Zen, Greek philosophy, Humanism, Christianity, and Daoism.
+      </description>
+      <enclosure 
+        length="21223767"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/007%20Humility.mp3"
+      />
+      <guid isPermaLink="false">bwp007</guid>
+      <pubDate>Sun, 26 June 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:29:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
