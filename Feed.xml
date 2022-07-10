@@ -188,6 +188,27 @@
       <itunes:duration>00:29:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
+			 <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <title>Episode 8 - Asceticism</title>
+	  <itunes:title>Episode 8 - Asceticism</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Asceticism, the practice of denying one's own personal desires in search of spiritual growth, has existed for thousands of years across a wide variety of traditions. We discuss some of those traditions.</itunes:summary>
+      <description>
+        Asceticism, the practice of denying one's own personal desires in search of spiritual growth, has existed for thousands of years across a wide variety of traditions. We discuss some of those traditions.
+      </description>
+      <enclosure 
+        length="31165954"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/008%20Asceticism(Final).mp3"
+      />
+      <guid isPermaLink="false">bwp008</guid>
+      <pubDate>Sun, 10 July 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:34:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
 
