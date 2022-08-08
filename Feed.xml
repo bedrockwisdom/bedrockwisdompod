@@ -230,6 +230,27 @@
       <itunes:duration>00:29:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
+	<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <title>Episode 10 - Non-Violence</title>
+	  <itunes:title>Episode 10 - Non-Violence</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>There is no question that humanity has often engaged in violence in an effort to make social changes. So how does one make a stand while refusing to engage in this ugly tendency? In this episode we highlight three groups who have tackled this challenge with success.</itunes:summary>
+      <description>
+        There is no question that humanity has often engaged in violence in an effort to make social changes. So how does one make a stand while refusing to engage in this ugly tendency? In this episode we highlight three groups who have tackled this challenge with success.
+      </description>
+      <enclosure 
+        length="28985089"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/010%20Non-Violence.mp3"
+      />
+      <guid isPermaLink="false">bwp010</guid>
+      <pubDate>Sun, 07 August 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:34:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
 
