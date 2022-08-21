@@ -147,6 +147,7 @@
       <itunes:duration>00:23:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
 	 <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
@@ -251,6 +252,48 @@
       <itunes:duration>00:34:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
+		<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <title>Episode 11 - The Golden Rule</title>
+	  <itunes:title>Episode 11 - The Golden Rule</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Treat others the way you want to be treated. This concept has presented itself so often throughout history in one form or another that it's hard to keep track of. In this episode we discuss some of those sources.</itunes:summary>
+      <description>
+        Treat others the way you want to be treated. This concept has presented itself so often throughout history in one form or another that it's hard to keep track of. In this episode we discuss some of those sources.
+      </description>
+      <enclosure 
+        length="23087430"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/010%20Non-Violence.mp3"
+      />
+      <guid isPermaLink="false">bwp011</guid>
+      <pubDate>Mon, 21 August 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:26:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	
+		<!-- <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12<itunes:episode>
+      <title>Episode 12 - Faith</title>
+	  <itunes:title>Episode 12 - Faith</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Faith, the act of accepting as truth an idea that cannot be scientifically verified, is inspiring... and complicated. In this episode we discuss faith and how it relates to things like works (action) and doubt.</itunes:summary>
+      <description>
+        Faith, the act of accepting as truth an idea that cannot be scientifically verified, is inspiring... and complicated. In this episode we discuss faith and how it relates to things like works (action) and doubt.
+      </description>
+      <enclosure 
+        length="24355773"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/010%20Non-Violence.mp3"
+      />
+      <guid isPermaLink="false">bwp012</guid>
+      <pubDate>Mon, 04 September 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:28:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item> -->
   </channel>
 </rss>
 
