@@ -274,7 +274,7 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 	
-		<!-- <item>
+		<item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12<itunes:episode>
       <title>Episode 12 - Faith</title>
@@ -287,13 +287,13 @@
       <enclosure 
         length="24355773"
         type="audio/mpeg"
-        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/010%20Non-Violence.mp3"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/012%20Faith.mp3"
       />
       <guid isPermaLink="false">bwp012</guid>
       <pubDate>Mon, 04 September 2022 04:00:00 MST</pubDate>
       <itunes:duration>00:28:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-    </item> -->
+    </item>
   </channel>
 </rss>
 
