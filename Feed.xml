@@ -294,6 +294,27 @@
       <itunes:duration>00:28:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
+<!-- 			<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <title>Episode 13 - Harmony With Nature</title>
+	  <itunes:title>Episode 13 - Harmony With Nature</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Faith, the act of accepting as truth an idea that cannot be scientifically verified, is inspiring... and complicated. In this episode we discuss faith and how it relates to things like works (action) and doubt.</itunes:summary>
+      <description>
+        Faith, the act of accepting as truth an idea that cannot be scientifically verified, is inspiring... and complicated. In this episode we discuss faith and how it relates to things like works (action) and doubt.
+      </description>
+      <enclosure 
+        length="24355773"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/012%20Faith.mp3"
+      />
+      <guid isPermaLink="false">bwp012</guid>
+      <pubDate>Wed, 07 September 2022 04:00:00 MST</pubDate>
+      <itunes:duration>00:28:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item> -->
   </channel>
 </rss>
 
