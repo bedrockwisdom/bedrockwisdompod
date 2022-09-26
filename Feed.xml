@@ -295,7 +295,7 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 	
-<!-- 			<item>
+			<item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <title>Episode 13 - Harmony With Nature</title>
@@ -303,18 +303,18 @@
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>The natural world holds a certain appeal. It stirs something ancient and awe-inspiring in the soul. In this episode we discuss some of the oldest spiritual traditions in the world as well as some contemporary reflections that can help us to be aware of our relationship with it.</itunes:summary>
       <description>
-        The natural world holds a certain appeal. It stirs something ancient and awe-inspiring in the soul. In this episode we discuss some of the oldest spiritual traditions in the world as well as some contemporary reflections that can help us to be aware of our relationship with it.
+        The natural world holds a certain appeal. It stirs something ancient and awe-inspiring in the soul. In this episode we discuss some of the oldest spiritual traditions in the world as well as some contemporary reflections that can help us to be aware of our relationship with nature.
       </description>
       <enclosure 
-        length="24355773"
+        length="28995219"
         type="audio/mpeg"
-        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/012%20Faith.mp3"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/013%20Harmony%20with%20Nature.mp3"
       />
-      <guid isPermaLink="false">bwp012</guid>
-      <pubDate>Wed, 07 September 2022 04:00:00 MST</pubDate>
-      <itunes:duration>00:28:30</itunes:duration>
+      <guid isPermaLink="false">bwp013</guid>
+      <pubDate>Wed, 26 September 2022 06:00:00 MST</pubDate>
+      <itunes:duration>00:33:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-    </item> -->
+    </item>
   </channel>
 </rss>
 
