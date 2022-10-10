@@ -315,6 +315,30 @@
       <itunes:duration>00:33:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+	
+		<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <title>Episode 14 - Forgiveness</title>
+	  <itunes:title>Episode 14 - Forgiveness</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Forgiveness is universally valued. But why?</itunes:summary>
+      <description>
+        Forgiveness is universally valued. But why?
+      </description>
+      <enclosure 
+        length="21712335"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/014%20Forgiveness.mp3"
+      />
+      <guid isPermaLink="false">bwp014</guid>
+      <pubDate>Wed, 10 October 2022 06:00:00 MST</pubDate>
+      <itunes:duration>00:26:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	
   </channel>
+	
+	
 </rss>
 
