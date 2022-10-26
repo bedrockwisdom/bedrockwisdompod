@@ -337,6 +337,27 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 	
+			<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+      <title>Episode 15 - The Value of Struggle</title>
+	  <itunes:title>Episode 15 - The Value of Struggle</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Life can be difficult. Despite our best efforts, we all have to experience pain and discomfort in one form or another. How we decide to engage with those challenges can make all the difference.</itunes:summary>
+      <description>
+        Life can be difficult. Despite our best efforts, we all have to experience pain and discomfort in one form or another. How we decide to engage with those challenges can make all the difference.
+      </description>
+      <enclosure 
+        length="26989818"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/015%20The%20Value%20of%20Struggle.mp3"
+      />
+      <guid isPermaLink="false">bwp015</guid>
+      <pubDate>Wed, 26 October 2022 06:00:00 MST</pubDate>
+      <itunes:duration>00:31:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+	
   </channel>
 	
 	
