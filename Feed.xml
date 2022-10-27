@@ -19,8 +19,9 @@
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://bedrockwisdom.github.io/podcast/BedrockWisdomArtwork.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"> <itunes:category text="Spirituality" /></itunes:category>
-    <itunes:category text="Society &amp; Culture"> <itunes:category text="Philosophy" /></itunes:category>
+    <itunes:category text="Religion &amp; Spirituality"> <itunes:category text="Spirituality" /> <itunes:category text="Religion" /> <itunes:category text="Christianity" /> <itunes:category text="Hinduism" /> <itunes:category text="Islam" /> <itunes:category text="Buddhism" /> <itunes:category text="Judaism" /></itunes:category>
+    	<itunes:category text="Society &amp; Culture"> <itunes:category text="Philosophy" /></itunes:category> 
+    	<itunes:category text="Science"> <itunes:category text="Social Sciences" /></itunes:category>
     <itunes:explicit>no</itunes:explicit>
     
     <item>
@@ -47,7 +48,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <title>Episode 1 - The Role of Myth</title>
-	  <itunes:title>Episode 1 - The Role of Myth</itunes:title>
+	  <itunes:title>The Role of Myth</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>What is myth and how does it play a role in human experience?</itunes:summary>
       <description>
@@ -67,7 +68,7 @@
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
-      <title>Episode 2 - Compassion</title>
+      <title>Compassion</title>
 	  <itunes:title>Episode 2 - Compassion</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>We discuss the stories of Avalokiteshvara as well as how Jesus responded to the loss of a friend.</itunes:summary>
@@ -89,7 +90,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <title>Episode 3 - Ritual</title>
-	  <itunes:title>Episode 3 - Ritual</itunes:title>
+	  <itunes:title>Ritual</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>What is ritual and how does it play a role in our everyday life?</itunes:summary>
       <description>
@@ -110,7 +111,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <title>Episode 4 - Interdependence</title>
-	  <itunes:title>Episode 4 - Interdependence</itunes:title>
+	  <itunes:title>Interdependence</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>We discuss the idea of how everything is connected through the Daoist lense of Yin and Yang and the Buddhist concept of interdependence.</itunes:summary>
       <description>
@@ -131,7 +132,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <title>Episode 5 - Meditation and Prayer</title>
-	  <itunes:title>Episode 5 - Meditation and Prayer</itunes:title>
+	  <itunes:title>Meditation and Prayer</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>We discuss the function of prayer and meditation and how they can act as a tool for keeping our mind grounded.</itunes:summary>
       <description>
@@ -152,7 +153,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
       <title>Episode 6 - Family and Relationships</title>
-	  <itunes:title>Episode 6 - Family and Relationships</itunes:title>
+	  <itunes:title>Family and Relationships</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>What is the value in having relationships with family and others? How are these emphasized in different traditions?</itunes:summary>
       <description>
@@ -173,7 +174,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
       <title>Episode 7 - Humility</title>
-	  <itunes:title>Episode 7 - Humility</itunes:title>
+	  <itunes:title>Humility</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>Is humility a weakness or a strength? We look at this topic through the lenses of Zen, Greek philosophy, Humanism, Christianity, and Daoism.</itunes:summary>
       <description>
@@ -194,7 +195,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
       <title>Episode 8 - Asceticism</title>
-	  <itunes:title>Episode 8 - Asceticism</itunes:title>
+	  <itunes:title>Asceticism</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>Asceticism, the practice of denying one's own personal desires in search of spiritual growth, has existed for thousands of years across a wide variety of traditions. We discuss some of those traditions.</itunes:summary>
       <description>
@@ -215,7 +216,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
       <title>Episode 9 - Community</title>
-	  <itunes:title>Episode 9 - Community</itunes:title>
+	  <itunes:title>Community</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>From small hunter-gatherer groups to whole nations, communities fill a fundamental role in our physical and mental well being. In this episode we discuss the value that participation in smaller, more intimate communities provides.</itunes:summary>
       <description>
@@ -236,7 +237,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
       <title>Episode 10 - Non-Violence</title>
-	  <itunes:title>Episode 10 - Non-Violence</itunes:title>
+	  <itunes:title>Non-Violence</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>There is no question that humanity has often engaged in violence in an effort to make social changes. So how does one make a stand while refusing to engage in this ugly tendency? In this episode we highlight three groups who have tackled this challenge with success.</itunes:summary>
       <description>
@@ -257,7 +258,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
       <title>Episode 11 - The Golden Rule</title>
-	  <itunes:title>Episode 11 - The Golden Rule</itunes:title>
+	  <itunes:title>The Golden Rule</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>Treat others the way you want to be treated. This concept has presented itself so often throughout history in one form or another that it's hard to keep track of. In this episode we discuss some of those sources.</itunes:summary>
       <description>
@@ -278,7 +279,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <title>Episode 12 - Faith</title>
-	  <itunes:title>Episode 12 - Faith</itunes:title>
+	  <itunes:title>Faith</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>Faith, the act of accepting as truth an idea that cannot be scientifically verified, is inspiring... and complicated. In this episode we discuss faith and how it relates to things like works (action) and doubt.</itunes:summary>
       <description>
@@ -299,7 +300,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <title>Episode 13 - Harmony With Nature</title>
-	  <itunes:title>Episode 13 - Harmony With Nature</itunes:title>
+	  <itunes:title>Harmony With Nature</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>The natural world holds a certain appeal. It stirs something ancient and awe-inspiring in the soul. In this episode we discuss some of the oldest spiritual traditions in the world as well as some contemporary reflections that can help us to be aware of our relationship with it.</itunes:summary>
       <description>
@@ -320,7 +321,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
       <title>Episode 14 - Forgiveness</title>
-	  <itunes:title>Episode 14 - Forgiveness</itunes:title>
+	  <itunes:title>Forgiveness</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>Forgiveness is universally valued. But why?</itunes:summary>
       <description>
@@ -341,7 +342,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
       <title>Episode 15 - The Value of Struggle</title>
-	  <itunes:title>Episode 15 - The Value of Struggle</itunes:title>
+	  <itunes:title>The Value of Struggle</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
 	    <itunes:summary>Life can be difficult. Despite our best efforts, we all have to experience pain and discomfort in one form or another. How we decide to engage with those challenges can make all the difference.</itunes:summary>
       <description>
