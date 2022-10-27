@@ -19,9 +19,9 @@
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://bedrockwisdom.github.io/podcast/BedrockWisdomArtwork.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"> <itunes:category text="Spirituality" /> <itunes:category text="Religion" /> <itunes:category text="Christianity" /> <itunes:category text="Hinduism" /> <itunes:category text="Islam" /> <itunes:category text="Buddhism" /> <itunes:category text="Judaism" /></itunes:category>
-    	<itunes:category text="Society &amp; Culture"> <itunes:category text="Philosophy" /></itunes:category> 
-    	<itunes:category text="Science"> <itunes:category text="Social Sciences" /></itunes:category>
+    <itunes:category text="Religion &amp; Spirituality"> <itunes:category text="Spirituality" /> </itunes:category>
+    	<itunes:category text="Society &amp; Culture"> <itunes:category text="Philosophy" /> </itunes:category> 
+    	<itunes:category text="Science"> <itunes:category text="Social Sciences" /> </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     
 <item>
