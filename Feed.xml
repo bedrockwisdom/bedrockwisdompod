@@ -359,6 +359,27 @@
       <itunes:explicit>no</itunes:explicit>
 </item>
 	
+<item>
+      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <title>Episode 16 - Respect for Elders</title>
+	  <itunes:title>Respect for Elders</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>The older members of our communities may not always be perfect, but they offer something valuable to society that can only be gained with time. Experience. In this episode we look at the importance of maintaining a level of respect for those who have gained it and paying attention to those who are willing to share their wisdom.</itunes:summary>
+      <description>
+        The older members of our communities may not always be perfect, but they offer something valuable to society that can only be gained with time. Experience. In this episode we look at the importance of maintaining a level of respect for those who have gained it and paying attention to those who are willing to share their wisdom.
+      </description>
+      <enclosure 
+        length="27485900"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/016%20Respect%20for%20Elders.mp3"
+      />
+      <guid isPermaLink="false">bwp016</guid>
+      <pubDate>Wed, 7 November 2022 06:00:00 MST</pubDate>
+      <itunes:duration>00:31:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+</item>
+	
   </channel>
 	
 	
