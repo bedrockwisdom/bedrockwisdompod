@@ -379,6 +379,27 @@
       <itunes:duration>00:31:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
 </item>
+
+<item>
+      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+      <title>Episode 17 - Integrity</title>
+	  <itunes:title>Integrity</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Having a high standard of morals and being truly committed to those morals aren’t always one and the same. In this episode we will look at some figures who have shown, through their actions, what it means to be a person of integrity.</itunes:summary>
+      <description>
+        Having a high standard of morals and being truly committed to those morals aren’t always one and the same. In this episode we will look at some figures who have shown, through their actions, what it means to be a person of integrity.
+      </description>
+      <enclosure 
+        length="23856802"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/017%20Integrity.mp3"
+      />
+      <guid isPermaLink="false">bwp017</guid>
+      <pubDate>Sun, 20 November 2022 06:00:00 MST</pubDate>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+</item>
 	
   </channel>
 	
