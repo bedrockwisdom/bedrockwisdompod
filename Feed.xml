@@ -2,7 +2,7 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 <channel>
     <title>Bedrock Wisdom Podcast</title>
-    <link>https://www.podpage.com/bedrockwisdompodcast/</link>	
+    <link>https://www.bedrockwisdompodcast.com/</link>	
     <language>en-us</language>
     <atom:link href="https://bedrockwisdom.github.io/podcast/Feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>&#169; 2022 Tyler Robbins</copyright>
