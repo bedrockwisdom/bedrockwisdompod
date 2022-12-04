@@ -400,6 +400,27 @@
       <itunes:duration>00:28:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
 </item>
+
+<item>
+      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episode>18</itunes:episode>
+      <title>Episode 18 - Mind, Body, Spirit</title>
+	  <itunes:title>Mind, Body, Spirit</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>"The body is a temple." Most traditions recognize the inseparable bond between body and mind. I discuss how some have harnessed this connection in search of higher understanding.</itunes:summary>
+      <description>
+        "The body is a temple." Most traditions recognize the inseparable bond between body and mind. I discuss how some have harnessed this connection in search of higher understanding.
+      </description>
+      <enclosure 
+        length="23856802"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/018%20Mind%2C%20Body%2C%20Spirit.mp3"
+      />
+      <guid isPermaLink="false">bwp018</guid>
+      <pubDate>Sun, 4 December 2022 06:00:00 MST</pubDate>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+</item>
 	
   </channel>
 	
