@@ -422,7 +422,7 @@
       <itunes:explicit>no</itunes:explicit>
 </item>
 
-<!-- <item>
+<item>
       <itunes:episodeType>episodic</itunes:episodeType>
       <itunes:episode>19</itunes:episode>
       <title>Episode 19 - Winter Traditions, Light and Charity</title>
@@ -441,7 +441,7 @@
       <pubDate>Sun, 18 December 2022 06:00:00 MST</pubDate>
       <itunes:duration>00:29:15</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-</item> -->
+</item>
 	
   </channel>
 	
