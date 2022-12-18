@@ -421,6 +421,27 @@
       <itunes:duration>00:28:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
 </item>
+
+<!-- <item>
+      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episode>19</itunes:episode>
+      <title>Episode 19 - Winter Traditions, Light and Charity</title>
+	  <itunes:title>Winter Traditions, Light and Charity</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>The dark days of winter can help us understand the value of light.</itunes:summary>
+      <description>
+        The dark days of winter can help us understand the value of light.
+      </description>
+      <enclosure 
+        length="23979796"
+        type="audio/mpeg"
+        url="https://github.com/bedrockwisdom/podcast/blob/main/Episodes/019%20Winter%20Traditions%2C%20Light%2C%20%26%20Charity.mp3"
+      />
+      <guid isPermaLink="false">bwp019</guid>
+      <pubDate>Sun, 18 December 2022 06:00:00 MST</pubDate>
+      <itunes:duration>00:29:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+</item> -->
 	
   </channel>
 	
