@@ -66,7 +66,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
       <title>Episode 2 - Compassion</title>
 	  <itunes:title>Compassion</itunes:title>
@@ -87,7 +87,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <title>Episode 3 - Ritual</title>
 	  <itunes:title>Ritual</itunes:title>
@@ -108,7 +108,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <title>Episode 4 - Interdependence</title>
 	  <itunes:title>Interdependence</itunes:title>
@@ -129,7 +129,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <title>Episode 5 - Meditation and Prayer</title>
 	  <itunes:title>Meditation and Prayer</itunes:title>
@@ -150,7 +150,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
       <title>Episode 6 - Family and Relationships</title>
 	  <itunes:title>Family and Relationships</itunes:title>
@@ -171,7 +171,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
       <title>Episode 7 - Humility</title>
 	  <itunes:title>Humility</itunes:title>
@@ -192,7 +192,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
       <title>Episode 8 - Asceticism</title>
 	  <itunes:title>Asceticism</itunes:title>
@@ -213,7 +213,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
       <title>Episode 9 - Community</title>
 	  <itunes:title>Community</itunes:title>
@@ -234,7 +234,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
       <title>Episode 10 - Non-Violence</title>
 	  <itunes:title>Non-Violence</itunes:title>
@@ -255,7 +255,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
       <title>Episode 11 - The Golden Rule</title>
 	  <itunes:title>The Golden Rule</itunes:title>
@@ -276,7 +276,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <title>Episode 12 - Faith</title>
 	  <itunes:title>Faith</itunes:title>
@@ -297,7 +297,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <title>Episode 13 - Harmony With Nature</title>
 	  <itunes:title>Harmony With Nature</itunes:title>
@@ -318,7 +318,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
       <title>Episode 14 - Forgiveness</title>
 	  <itunes:title>Forgiveness</itunes:title>
@@ -339,7 +339,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
       <title>Episode 15 - The Value of Struggle</title>
 	  <itunes:title>The Value of Struggle</itunes:title>
@@ -360,7 +360,7 @@
 </item>
 	
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
       <title>Episode 16 - Respect for Elders</title>
 	  <itunes:title>Respect for Elders</itunes:title>
@@ -381,7 +381,7 @@
 </item>
 
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>17</itunes:episode>
       <title>Episode 17 - Integrity</title>
 	  <itunes:title>Integrity</itunes:title>
@@ -402,7 +402,7 @@
 </item>
 
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>18</itunes:episode>
       <title>Episode 18 - Mind, Body, Spirit</title>
 	  <itunes:title>Mind, Body, Spirit</itunes:title>
@@ -423,7 +423,7 @@
 </item>
 
 <item>
-      <itunes:episodeType>episodic</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>19</itunes:episode>
       <title>Episode 19 - Winter Traditions, Light and Charity</title>
 	  <itunes:title>Winter Traditions, Light and Charity</itunes:title>
