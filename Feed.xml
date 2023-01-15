@@ -463,7 +463,27 @@
 	<link>https://www.bedrockwisdompodcast.com/episode-19-winter-traditions-light-and-charity/</link>
 </item>
 	
+<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>20</itunes:episode>
+      <title>Episode 20 - Creativity in Visual Art</title>
+	  <itunes:title>Creativity in Visual Art</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>Art has been used for centuries as a means to express our relationship to the divine. In this episode we highlight some ways in which this has been expressed visually.</itunes:summary>
+      <description>
+        Art has been used for centuries as a means to express our relationship to the divine. In this episode we highlight some ways in which this has been expressed visually.
+      </description>
+      <enclosure 
+        length="21777827"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/020%20Creativity%20-%20Visual%20Arts.mp3"
+      />
+      <guid isPermaLink="false">bwp020</guid>
+      <pubDate>Sun, 15 January 2022 06:00:00 MST</pubDate>
+      <itunes:duration>00:24:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
 
+</item>	
 	
   </channel>
 	
