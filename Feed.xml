@@ -484,6 +484,28 @@
       <itunes:explicit>no</itunes:explicit>
 	<link>https://www.bedrockwisdompodcast.com/episode-20-creativity-in-visual-art/</link>	
 </item>	
+
+<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>21</itunes:episode>
+      <title>Episode 21 - Coming of Age</title>
+	  <itunes:title>Coming of Age</itunes:title>
+      <itunes:author>Tyler Robbins</itunes:author>
+	    <itunes:summary>That phase of life between childhood and adulthood can be challenging. Special rites can help ease the transition for both the young person and their tribe.</itunes:summary>
+      <description>
+        That phase of life between childhood and adulthood can be challenging. Special rites can help ease the transition for both the young person and their tribe.
+      </description>
+      <enclosure 
+        length="22978560"
+        type="audio/mpeg"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/021%20Coming%20of%20Age.mp3"
+      />
+      <guid isPermaLink="false">bwp021</guid>
+      <pubDate>Sun, 12 February 2023 06:00:00 MST</pubDate>
+      <itunes:duration>00:27:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+	<!-- <link>https://www.bedrockwisdompodcast.com/episode-20-creativity-in-visual-art/</link>	 -->
+</item>	
 	
   </channel>
 	
